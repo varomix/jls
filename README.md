@@ -1,5 +1,8 @@
-# ols
-Language server for Odin. This project is still in early development. 
+# jls
+Language server for Jai. This project is still in early development. 
+
+FORK OF OLS TO TRY TO MAKE IT WORK WITH JAI
+ALL OF THE BELLOW DOESN"T APPLY
 
 **Status**: All platforms work.
 
